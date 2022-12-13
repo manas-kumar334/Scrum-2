@@ -1,0 +1,5 @@
+manas,qerew,productmanager
+rob,vsf678,productmanager
+manas1,qerew,releasemanager
+manas,qerew,releasemanager
+as,ewmrkl,releasemanager
