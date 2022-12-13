@@ -21,7 +21,7 @@ all:
 	gcc ${OBJDIR}/main.o ${OBJDIR}/LogReg.o ${OBJDIR}/PMRMCRUD.o -o ${BINDIR}/scrum.bin
 
 clean:
-	rm ${OBJDIR}/main.o ${OBJDIR}/LogReg.o ${OBJDIR}/PMRMCRUD.o -o ${BINDIR}/scrum.bin
+	rm ${OBJDIR}/main.o ${OBJDIR}/LogReg.o ${OBJDIR}/PMRMCRUD.o ${BINDIR}/scrum.bin
 
 
 ##################################################### END OF MAKEFILE ############################################################################### 
